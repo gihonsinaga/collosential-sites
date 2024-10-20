@@ -35,11 +35,11 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-20">
           <div className="flex-shrink-0">
-            <img className="w-30 h-10" src="/assets/logo.webp" alt="Logo" />
+            <img className="w-30 h-10" src="/assets/logo.png" alt="Logo" />
           </div>
           <div className="hidden md:block">
             <div className="ml-10 flex items-baseline space-x-4">
-              <Link
+              {/* <Link
                 to="/work"
                 className={`px-3 py-2  text-sm font-medium ${getLinkClass(
                   "/work"
@@ -62,14 +62,14 @@ const Navbar = () => {
                 )}`}
               >
                 Services
-              </Link>
+              </Link> */}
               <Link
                 to="/"
                 className={`px-3 py-2  text-sm font-medium ${getLinkClass(
                   "/"
                 )}`}
               >
-                Ideas
+                Home
               </Link>
               <Link
                 to="/careers"
@@ -77,7 +77,7 @@ const Navbar = () => {
                   "/careers"
                 )}`}
               >
-                Careers
+                Our Portofolio
               </Link>
               <Link
                 to="/contact"

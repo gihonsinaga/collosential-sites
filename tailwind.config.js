@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        "home-bg": "url('/assets/banner.jpeg')",
+        "home-bg": "url('/assets/hero2.jpg')",
       },
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],
