@@ -176,7 +176,7 @@ export default function Example() {
         </div>
         <div className="mt-12 border-t border-gray-200 pt-8">
           <p className="text-sm text-gray-400 xl:text-center">
-            Copyright © 2024 Collosentials
+            Copyright © 2024 Color Essentials
           </p>
         </div>
       </div>

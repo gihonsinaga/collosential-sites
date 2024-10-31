@@ -21,8 +21,8 @@ export default function Ideas() {
         <h1 className="text-black mt-24 max-sm:text-center">
           <span className=" font-semibold sm:text-3xl max-sm:text-2xl">
             Make Your Video Colorfull With
-            <span className="text-orange-400"> Collos</span>
-            <span className="text-orange-300">sentials</span>
+            <span className="text-orange-400"> Color</span>
+            <span className="text-orange-300">Essentials</span>
           </span>
         </h1>
         <p className="tracking-normal sm:text-base max-sm:mt-2 font-light max-sm:px-5 max-sm:text-xs mx-64 mt-5 text-slate-600">
@@ -55,11 +55,11 @@ export default function Ideas() {
           </div>
           <div className="text-base mt-5 mx-20">
             Give your videos a unique style by adjusting and enhancing their
-            colors. With Collosentials' color grading service, you can make your
-            footage more vibrant or create a muted, cinematic feel. Customize
-            the color tones until your video reaches the perfect aesthetic—no
-            advanced editing skills required! The best part? You can achieve all
-            of this quickly and effortlessly
+            colors. With Color Essentials' color grading service, you can make
+            your footage more vibrant or create a muted, cinematic feel.
+            Customize the color tones until your video reaches the perfect
+            aesthetic—no advanced editing skills required! The best part? You
+            can achieve all of this quickly and effortlessly
           </div>
         </div>
       </ScrollAnimation>
@@ -70,8 +70,8 @@ export default function Ideas() {
             <ScrollAnimation animateIn="fadeInLeft">
               <div className="flex flex-col justify-center text-black  p-6 text-center rounded-sm lg:max-w-md xl:max-w-lg lg:text-left">
                 <h1 className="max-sm:text-xl max-sm:mt-10 text-black font-medium sm:text-3xl  max-sm:hidden -mt-5">
-                  Why Must <span className="text-orange-400">Collos</span>
-                  <span className="text-orange-300">sentials ? </span>
+                  Why Must <span className="text-orange-400">Color</span>
+                  <span className="text-orange-300">Essential ? </span>
                 </h1>
                 <table className="mt-2">
                   <tbody>
@@ -123,7 +123,7 @@ export default function Ideas() {
                         <br />
                         <span className="font-normal sm:text-sm tracking-wide max-sm:text-xs">
                           {" "}
-                          At Collosentials, we deliver high-quality results
+                          At Color Essentials, we deliver high-quality results
                           efficiently, ensuring your project meets deadlines
                           without compromising on excellence.
                         </span>
@@ -202,7 +202,7 @@ export default function Ideas() {
                 </tbody>
               </table>
               <div className="flex justify-center mt-10">
-                <button className="bg-gradient-to-r from-orange-600 to-orange-400 text-black font-semibold py-3 px-20 rounded-full max-sm:text-xs">
+                <button className="bg-gradient-to-r from-orange-600 to-orange-400 text-white font-medium py-3 px-20 rounded-full max-sm:text-xs">
                   Get Detail
                 </button>
               </div>
